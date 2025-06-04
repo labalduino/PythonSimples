@@ -29,4 +29,4 @@ print(f"O número {num1} é maior ou igual a {num2}? {bigger_equal}")
 num1 +=1 # num1 = num1 + 1
 num1 -=1 # num1 = num1 - 1
 num1 *=1 # num1 = num1 * 1
-num1 /=1 # num1 = num1 / 1
+num1 /=1 # num1 = num1 / 
