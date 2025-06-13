@@ -20,4 +20,4 @@ print(filmsTuple[:3])
 print(filmsTuple[2:])
 
 # 5 - recuperar o indice de um determinado filme pelo nome
-print(filmsTuple.index("Pulp Fictions"))
+print(filmsTuple.index("Pulp Fiction"))
